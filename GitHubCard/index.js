@@ -10,7 +10,7 @@ axios
   .catch(err => console.log(err))
 
 // 2: inspect the data. study it.
-// ʕ•́ᴥ•̀ʔっ kthanks.
+// ʕ•́ᴥ•̀ʔっ kthanks. (in postman or console.log inside of your .then())
 
 // 3: create a component with the structure at the bottom of the page
 function github(data) {
