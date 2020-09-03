@@ -57,14 +57,14 @@ function github(data) {
 
 // 5: populate followersArray and create their cards (.forEach below)
 const followersArray = [
-  'oliviaChen2020',
-  'simonesquad',
   'dionne-stratton',
   'joshuaholloway',
   'leachtucker',
+  'oliviaChen2020',
   'rhea-manuel',
-  'sophiethedeveloper',
+  'simonesquad',
   'sleepylazarus',
+  'sophiethedeveloper',
 ]
 
 followersArray.forEach(user => {
